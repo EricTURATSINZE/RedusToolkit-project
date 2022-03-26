@@ -1,3 +1,3 @@
 ## ReduxToolkit Practice Project
 
-Involves Providing the multiple sliced store and consuming it useSelector hook
+Involves Providing the multiple sliced store and consuming it useSelector hook all using reduxToolkit
